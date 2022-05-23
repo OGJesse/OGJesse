@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ogoula jesse</h1>
 <h3 align="center"> love writting code dev and share my knowledges</h3>
 
-<h3 align="center">I'm web developper and I make some website,🥖 web dev</h3>
+<h3 align="center">I'm Digital Marketing Strategist | Web & mobile Developer</h3>
 
 <h3 align="center">My latest project 👨‍💻</h3>
 
